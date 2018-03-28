@@ -24,7 +24,7 @@ import org.springframework.web.bind.annotation.RestController;
  * Modification History:
  * Date            Author        Version           Description
  * -----------------------------------------------------------
- * 2018年3月26日      Ocean         v1.0.20180326     创建&修改
+ * 2018年3月26日      Ocean         v1.0.20180326     创建
  */
 
 @RestController
