@@ -1,6 +1,4 @@
 ------------2018年3月28日-------------
-创建一个branch 
+1、创建一个branch 
 
-提到master上
-
-somethings
+2、可以通过GitLab来替代GitHub，建立局域网内Git代码版本管理工具
